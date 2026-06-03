@@ -16,4 +16,4 @@ Cryptocurrency investment recommendation using R. Compared individual crypto ass
 ## Software Projects
 
 - [python_toy](https://github.com/robertiannuzzo/python_toy) — A live coding tool for Signed Distance Functions (SDFs), rendered as 3D meshes or 2D bitmaps
-- [threjs_projects](https://github.com/robertiannuzzo/threjs_projects) — Three.js experiments and projects | [Live site](https://robertiannuzzo.neocities.org)
+- [elliptic-curve-threejs](https://github.com/robertiannuzzo/elliptic-curve-threejs) — Interactive Three.js elliptic curve visualizer | [Live site](https://robertiannuzzo.neocities.org)
