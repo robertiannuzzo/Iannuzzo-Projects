@@ -1,17 +1,17 @@
 # Iannuzzo Projects
 
-A collection of academic and personal projects.
+A collection of academic and personal projects spanning financial modeling, data mining, and software development.
 
 ## Academic Projects
 
 ### Applied Time Series
-Statistical time series analysis and modeling.
+Constructed a Security Market Line (SML) to evaluate the Bitwise Crypto Index (BITW) against a Bitcoin-only investment. Uses SARIMA modeling on log returns across Bitcoin, Ethereum, Cardano, Solana, and XRP.
 
 ### Data Mining
-Data mining final project and presentation slides.
+Predictive modeling on the UCI Steel Industry Energy Consumption dataset. Applies Ridge, Lasso, PCA, and PLS regression with full preprocessing pipelines to forecast industrial energy usage.
 
 ### Financial Modeling
-Financial modeling analysis written in R.
+Cryptocurrency investment recommendation using R. Compared individual crypto assets (Bitcoin, Ethereum, XRP, Solana, Cardano) against the Bitwise 10 crypto index using descriptive statistics on daily log returns, annualized volatility analysis, and a Security Market Line. Concluded that Bitcoin offers the best risk-adjusted return and recommended it over the Bitwise index.
 
 ## Software Projects
 
