@@ -5,7 +5,7 @@ A collection of academic and personal projects spanning financial modeling, data
 ## Academic Projects
 
 ### Applied Time Series
-Constructed a Security Market Line (SML) to evaluate the Bitwise Crypto Index (BITW) against a Bitcoin-only investment. Uses SARIMA modeling on log returns across Bitcoin, Ethereum, Cardano, Solana, and XRP.
+Modeled and forecasted the Case-Shiller Los Angeles Home Price Index using SARIMA. Applied log transformation and seasonal differencing to achieve stationarity, used ACF/PACF analysis to identify model order, and selected a final SARIMA(4,1,3)x(0,1,1) model based on AIC and residual diagnostics. Forecasted 12 months of housing prices, predicting continued upward trends in the LA market.
 
 ### Data Mining
 Predictive modeling on the UCI Steel Industry Energy Consumption dataset. Applies Ridge, Lasso, PCA, and PLS regression with full preprocessing pipelines to forecast industrial energy usage.
