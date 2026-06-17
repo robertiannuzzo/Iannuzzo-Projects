@@ -17,3 +17,4 @@ Cryptocurrency investment recommendation using R. Compared individual crypto ass
 
 - [python_toy](https://github.com/robertiannuzzo/python_toy) — A live coding tool for Signed Distance Functions (SDFs), rendered as 3D meshes or 2D bitmaps
 - [elliptic-curve-threejs](https://github.com/robertiannuzzo/elliptic-curve-threejs) — Interactive Three.js elliptic curve visualizer | [Live site](https://robertiannuzzo.neocities.org)
+- [Write-Yourself-a-Scheme](https://github.com/robertiannuzzo/Write-Yourself-a-Scheme) — A Scheme interpreter written in Haskell
